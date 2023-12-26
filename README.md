@@ -1,10 +1,10 @@
-# PurpurMC Plugin Template
+# Nuke
 
 ---
-> PurpurMC Sample Plugin (1.20.4 ~)
+> Nuke (1.20.4 ~)
 ---
 
-    PurpurMC Plugin Template
+    Nuke
     Copyright (C) 2024 Kill00
 
     This program is free software: you can redistribute it and/or modify
