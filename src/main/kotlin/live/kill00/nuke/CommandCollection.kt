@@ -74,7 +74,7 @@ class CommandCollection {
                         sender.world.createExplosion(loc, 150f, true, true)
                         i++
 
-                        delay(500)
+                        delay(250)
                     }
                     sender.sendMessage("Finished the Nuke!")
                     running = false
