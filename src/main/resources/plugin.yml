@@ -2,5 +2,5 @@ name: $name
 version: $version
 main: $main
 api-version: $targetMC
-authors: [ Kill00 ]
-website: https://github.com/Kill00/Nuke
+authors: [ TeamUselessPlugin ]
+website: https://github.com/TeamUselessPlugin/Nuke

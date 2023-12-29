@@ -1,4 +1,4 @@
-package live.kill00.nuke
+package io.github.teamuselessplugin.nuke
 
 import dev.jorel.commandapi.CommandAPI
 import dev.jorel.commandapi.CommandAPIBukkitConfig

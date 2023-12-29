@@ -1,4 +1,4 @@
-package live.kill00.nuke
+package io.github.teamuselessplugin.nuke
 
 import dev.jorel.commandapi.CommandAPICommand
 import dev.jorel.commandapi.arguments.IntegerArgument
@@ -67,7 +67,7 @@ class CommandCollection {
                         val x = random.nextInt((args[0] as Int) * 2 + 1) - (args[0] as Int)
                         val z = random.nextInt((args[0] as Int) * 2 + 1) - (args[0] as Int)
 
-                        var loc = centerLocation.clone().add(x.toDouble(), .0, z.toDouble())
+                        val loc = centerLocation.clone().add(x.toDouble(), .0, z.toDouble())
 
                         sender.sendMessage("Nuked! (${Math.round(loc.x)}, ${Math.round(loc.y)}, ${Math.round(loc.z)})")
 
