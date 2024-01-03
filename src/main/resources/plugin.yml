@@ -1,6 +1,6 @@
 name: $name
 version: $version
 main: $main
-api-version: $targetMC
+api-version: $APIVersion
 authors: [ TeamUselessPlugin ]
 website: https://github.com/TeamUselessPlugin/Nuke
