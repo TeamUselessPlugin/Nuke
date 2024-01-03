@@ -1,11 +1,11 @@
 # Nuke
 
 ---
-> Nuke (1.20.4 ~)
+> Nuke (1.17 ~)
 ---
 
     Nuke
-    Copyright (C) 2024 Team-UselessPlugin
+    Copyright (C) 2024 TeamUselessPlugin
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
